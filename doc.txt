@@ -1,14 +1,17 @@
 
 
 
-on branch1 branch
+
+
+on branch2 branch
 
 
 
 
-a
-A
-yep, this is branch 1 all right, this should not apperar on master
+
+
+
+yep, this is branch2 all right, this should not apperar on master
 
 
 

@@ -1,20 +1,8 @@
 
 
-AND NOW I AM MAKING A CHANGE TO BRANCH1 and tagging it as v1.1 
 
 
-on branch1 branch
-
-
-
-
-a
-A
-yep, this is branch 1 all right, this should not apperar on master
-
-
-
-
+this is tag v1.2
 
 
 
